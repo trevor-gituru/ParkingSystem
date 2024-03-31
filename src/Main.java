@@ -1,11 +1,3 @@
-/* Week 4 Assignment
- * ICT-4305-1
- * Nhan Pham
- * University of Denver University College
- * July 10 2022
- * Faculty: Michael Schwartz
- */
-
 
 //Importing required classes
 import java.util.ArrayList;
